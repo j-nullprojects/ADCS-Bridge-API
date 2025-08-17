@@ -38,5 +38,7 @@ This is a foundation step — more functionality will be added.
 ## Roadmap
 
 Add proper REST API wrapper
+
 Support JSON-based requests and responses
+
 Build endpoints for request status and revocation
