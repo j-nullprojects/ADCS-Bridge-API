@@ -34,3 +34,9 @@ This is a foundation step — more functionality will be added.
 - **PowerShell 5.1+** on the client machine.
 - Script execution policy that allows running the provided script.
 - The provided script must be run with valid service account credentials.
+
+## Roadmap
+
+Add proper REST API wrapper
+Support JSON-based requests and responses
+Build endpoints for request status and revocation
